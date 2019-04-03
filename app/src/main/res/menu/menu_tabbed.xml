@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.him.s_parking.TabbedActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_checkForUpdates"
+        android:orderInCategory="100"
+        android:title="@string/action_checkForUpdates"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_feedBack"
+        android:orderInCategory="100"
+        android:title="@string/action_feedBack"
+        app:showAsAction="never" />
+</menu>

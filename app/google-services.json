@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "897910313628",
+    "firebase_url": "https://smart-parking-management-17cbc.firebaseio.com",
+    "project_id": "smart-parking-management-17cbc",
+    "storage_bucket": "smart-parking-management-17cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897910313628:android:980bf0cfb3bf8333",
+        "android_client_info": {
+          "package_name": "com.him.s_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897910313628-oj0ape6929hl4enq03onv426lq7cvon0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmgVBW-8S6DGyjZL2kPG4Q9qgiemR2zTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
